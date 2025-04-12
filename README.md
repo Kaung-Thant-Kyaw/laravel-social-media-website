@@ -1,9 +1,6 @@
 # Laravel Social Media Website
 Laravel Social Media Website from codeholic for inspirational purpose for my own project. 
 
-## Demo
-The application is deployed on the following domain [laravel-space.com](https://laravel-space.com/)
-
 ## Installation with docker
 
 #### 1. Clone the project
